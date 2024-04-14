@@ -1,4 +1,4 @@
-#Natural Merge Sort
+# Natural Merge Sort
 
 The merge sort algorithm recursively divides the array in half until an array with one element is reached. A variant of merge sort, called natural merge sort, instead finds already-sorted runs of elements and merges the runs together.
 
